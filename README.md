@@ -13,3 +13,7 @@ pip install -r requirements.txt
 python word_cloud.py
 
 ```
+
+<br/>
+
+<img  src="Figure_1.png" />
