@@ -16,4 +16,6 @@ python word_cloud.py
 
 <br/>
 
+<h1>Example</h1>
+
 <img  src="Figure_1.png" />
